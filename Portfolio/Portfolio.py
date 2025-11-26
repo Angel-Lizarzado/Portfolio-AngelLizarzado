@@ -33,14 +33,14 @@ def get_meta_tags() -> list:
         {"property": "og:description", "content": f"{data['titulo']}. {data['descripcion']}"},
         {"property": "og:type", "content": "website"},
         {"property": "og:url", "content": base_url},
-        {"property": "og:image", "content": f"{base_url}/assets/portfolio.png"},
+        {"property": "og:image", "content": f"{base_url}/android-chrome-512x512.png"},
         {"property": "og:locale", "content": "es_ES"},
         
         # Twitter Card
-        {"name": "twitter:card", "content": "summary_large_image"},
+        {"name": "twitter:card", "content": "summary"},
         {"name": "twitter:title", "content": f"{data['nombre']} - Portfolio"},
         {"name": "twitter:description", "content": f"{data['titulo']}. {data['descripcion']}"},
-        {"name": "twitter:image", "content": f"{base_url}/assets/portfolio.png"},
+        {"name": "twitter:image", "content": f"{base_url}/android-chrome-512x512.png"},
         
         # Robots
         {"name": "robots", "content": "index, follow"},
