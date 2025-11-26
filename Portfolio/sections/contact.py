@@ -58,6 +58,7 @@ def contact_section() -> rx.Component:
                         linkedin=redes.get("linkedin"),
                         email=redes.get("email"),
                         twitter=redes.get("twitter"),
+                        repo_url=redes.get("repo_url"),
                     ),
                     spacing="4",
                     padding_y="6",

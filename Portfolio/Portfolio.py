@@ -19,7 +19,7 @@ def get_meta_tags() -> list:
 
     data = get_personal_data()
     #Actualizar con el dominio real al terminar
-    base_url = "https://tu-dominio.com" 
+    base_url = "https://mitsukai.is-a.dev" 
     
     # Reflex usa diccionarios simples para meta tags
     return [
@@ -133,6 +133,12 @@ app = rx.App(
     style={
         "font_family": "Inter, sans-serif",
     },
+    head_components=[
+        rx.el.link(rel="apple-touch-icon", sizes="180x180", href="/assets/apple-touch-icon.png"),
+        rx.el.link(rel="icon", type="image/png", sizes="32x32", href="/assets/favicon-32x32.png"),
+        rx.el.link(rel="icon", type="image/png", sizes="16x16", href="/assets/favicon-16x16.png"),
+        rx.el.link(rel="manifest", href="/assets/site.webmanifest"),
+    ],
 )
 app.add_page(
     index,
