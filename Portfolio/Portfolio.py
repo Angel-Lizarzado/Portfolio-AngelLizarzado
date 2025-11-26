@@ -134,10 +134,10 @@ app = rx.App(
         "font_family": "Inter, sans-serif",
     },
     head_components=[
-        rx.el.link(rel="apple-touch-icon", sizes="180x180", href="/assets/apple-touch-icon.png"),
-        rx.el.link(rel="icon", type="image/png", sizes="32x32", href="/assets/favicon-32x32.png"),
-        rx.el.link(rel="icon", type="image/png", sizes="16x16", href="/assets/favicon-16x16.png"),
-        rx.el.link(rel="manifest", href="/assets/site.webmanifest"),
+        rx.el.link(rel="apple-touch-icon", sizes="180x180", href="/apple-touch-icon.png"),
+        rx.el.link(rel="icon", type="image/png", sizes="32x32", href="/favicon-32x32.png"),
+        rx.el.link(rel="icon", type="image/png", sizes="16x16", href="/favicon-16x16.png"),
+        rx.el.link(rel="manifest", href="/site.webmanifest"),
     ],
 )
 app.add_page(

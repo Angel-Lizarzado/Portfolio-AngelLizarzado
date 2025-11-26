@@ -76,7 +76,7 @@ def hero_section() -> rx.Component:
                             "background": "rgba(0, 200, 255, 0.1)",
                         },
                     ),
-                    href="/assets/cv.pdf",
+                    href="/cv.pdf",
                     is_external=True,
                     style={"text-decoration": "none"},
                 ),
