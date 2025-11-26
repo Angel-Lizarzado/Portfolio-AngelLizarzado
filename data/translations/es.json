@@ -19,9 +19,8 @@
     "about": {
         "title": "Sobre Mí",
         "paragraphs": [
-            "Soy un desarrollador Junior entusiasta, formándome a través de másters y aprendizaje autodidacta. Aunque estoy al inicio de mi carrera profesional, tengo una base sólida en Python, desarrollo web y una gran capacidad para aprender nuevas tecnologías rápidamente.",
-            "Busco mi primera oportunidad profesional para aportar mi energía, seguir creciendo y convertir problemas complejos en soluciones de código limpio y eficiente.",
-            "Cuento con una sólida base técnica adquirida a través del Máster en Desarrollo Web y Aplicaciones Móviles en IMMUNE Technology Institute. Mi formación se ha centrado en tecnologías clave como JavaScript, React, Node.js y Next.js, así como en bases de datos SQL y NoSQL. Además, poseo conocimientos en testing, fundamentos de ciberseguridad, administración de sistemas operativos (Linux y Windows Server) y documentación técnica (UML, diagramas de flujo y casos de uso)."
+            "Soy un desarrollador Full Stack apasionado por la tecnología y la resolución de problemas. Combino una sólida base en Python y desarrollo web moderno con una capacidad constante para aprender y adaptarme a nuevas herramientas.",
+            "Mi formación en IMMUNE Technology Institute me ha especializado en el stack JavaScript (React, Node.js, Next.js) y bases de datos, complementado con conocimientos en administración de sistemas y ciberseguridad. Me enfoco en crear soluciones eficientes, escalables y bien documentadas."
         ]
     },
     "skills": {
