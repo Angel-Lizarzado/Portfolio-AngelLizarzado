@@ -1,0 +1,49 @@
+{
+    "navbar": {
+        "logo": "AL",
+        "links": {
+            "home": "Inicio",
+            "about": "Sobre Mí",
+            "skills": "Skills",
+            "experience": "Experiencia",
+            "projects": "Proyectos",
+            "contact": "Contacto"
+        }
+    },
+    "hero": {
+        "greeting": "Hola, soy",
+        "role": "Junior Full Stack Developer",
+        "description": "Desarrollador autodidacta apasionado por crear soluciones web modernas y eficientes.",
+        "download_cv": "Descargar CV"
+    },
+    "about": {
+        "title": "Sobre Mí",
+        "paragraphs": [
+            "Soy un desarrollador Junior entusiasta, formándome a través de másters y aprendizaje autodidacta. Aunque estoy al inicio de mi carrera profesional, tengo una base sólida en Python, desarrollo web y una gran capacidad para aprender nuevas tecnologías rápidamente.",
+            "Busco mi primera oportunidad profesional para aportar mi energía, seguir creciendo y convertir problemas complejos en soluciones de código limpio y eficiente.",
+            "Cuento con una sólida base técnica adquirida a través del Máster en Desarrollo Web y Aplicaciones Móviles en IMMUNE Technology Institute. Mi formación se ha centrado en tecnologías clave como JavaScript, React, Node.js y Next.js, así como en bases de datos SQL y NoSQL. Además, poseo conocimientos en testing, fundamentos de ciberseguridad, administración de sistemas operativos (Linux y Windows Server) y documentación técnica (UML, diagramas de flujo y casos de uso)."
+        ]
+    },
+    "skills": {
+        "title": "Habilidades Técnicas",
+        "categories": {
+            "Frontend": "Frontend",
+            "Backend": "Backend",
+            "Herramientas": "Herramientas",
+            "Aprendiendo": "Aprendiendo"
+        }
+    },
+    "experience": {
+        "title": "Trayectoria",
+        "education_title": "Educación",
+        "experience_title": "Experiencia Académica"
+    },
+    "projects": {
+        "title": "Proyectos Destacados"
+    },
+    "contact": {
+        "title": "¿Hablamos?",
+        "description": "Estoy buscando mi primera oportunidad laboral. ¡Contáctame!",
+        "footer_built_with": "Desarrollado con"
+    }
+}

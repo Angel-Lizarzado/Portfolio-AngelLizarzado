@@ -1,0 +1,49 @@
+{
+    "navbar": {
+        "logo": "AL",
+        "links": {
+            "home": "Home",
+            "about": "About Me",
+            "skills": "Skills",
+            "experience": "Experience",
+            "projects": "Projects",
+            "contact": "Contact"
+        }
+    },
+    "hero": {
+        "greeting": "Hi, I am",
+        "role": "Junior Full Stack Developer",
+        "description": "Self-taught developer passionate about creating modern and efficient web solutions.",
+        "download_cv": "Download CV"
+    },
+    "about": {
+        "title": "About Me",
+        "paragraphs": [
+            "I am an enthusiastic Junior Developer, training through masters and self-taught learning. Although I am at the beginning of my professional career, I have a solid foundation in Python and web development, and a great ability to learn new technologies quickly.",
+            "I am looking for my first professional opportunity to contribute my energy, keep growing, and turn complex problems into clean and efficient code solutions.",
+            "I have a solid technical foundation acquired through the Master in Web and Mobile Application Development at IMMUNE Technology Institute. My training has focused on key technologies such as JavaScript, React, Node.js, and Next.js, as well as SQL and NoSQL databases. In addition, I have knowledge in testing, cybersecurity fundamentals, operating system administration (Linux and Windows Server), and technical documentation (UML, flowcharts, and use cases)."
+        ]
+    },
+    "skills": {
+        "title": "Technical Skills",
+        "categories": {
+            "Frontend": "Frontend",
+            "Backend": "Backend",
+            "Herramientas": "Tools",
+            "Aprendiendo": "Learning"
+        }
+    },
+    "experience": {
+        "title": "Trajectory",
+        "education_title": "Education",
+        "experience_title": "Academic Experience"
+    },
+    "projects": {
+        "title": "Featured Projects"
+    },
+    "contact": {
+        "title": "Let's Talk?",
+        "description": "I am looking for my first job opportunity. Contact me!",
+        "footer_built_with": "Built with"
+    }
+}

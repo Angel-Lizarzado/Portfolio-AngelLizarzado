@@ -1,0 +1,40 @@
+{
+    "educacion": [
+        {
+            "institucion": "IMMUNE Technology Institute",
+            "periodo": "2024 - Presente",
+            "logo_url": "/immune.jpeg",
+            "programa_es": "Máster en Desarrollo de Apps y Programación Web",
+            "programa_en": "Master in App Development and Web Programming"
+        },
+        {
+            "institucion": "Plataformas Online (Udemy/Coursera)",
+            "periodo": "2023 - 2024",
+            "logo_url": "udemy.jpeg",
+            "programa_es": "Cursos de Especialización en Python y React",
+            "programa_en": "Specialization Courses in Python and React"
+        }
+    ],
+    "experiencia": [
+        {
+            "es": "Desarrollo de proyectos académicos full-stack aplicando metodologías ágiles (Scrum)",
+            "en": "Development of full-stack academic projects applying agile methodologies (Scrum)"
+        },
+        {
+            "es": "Creación de aplicaciones web responsivas utilizando React y Python",
+            "en": "Building responsive web applications using React and Python"
+        },
+        {
+            "es": "Implementación de bases de datos relacionales y consumo de APIs",
+            "en": "Implementation of relational databases and consumption of APIs"
+        },
+        {
+            "es": "Participación en hackathons y retos de programación para mejorar habilidades de resolución de problemas",
+            "en": "Participation in hackathons and programming challenges to improve problem-solving skills"
+        },
+        {
+            "es": "Aprendizaje continuo de nuevas tecnologías y mejores prácticas de desarrollo",
+            "en": "Continuous learning of new technologies and best development practices"
+        }
+    ]
+}

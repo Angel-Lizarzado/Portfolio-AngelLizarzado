@@ -1,0 +1,25 @@
+{
+    "nombre": "Ángel Lizarzado",
+    "titulo": "Junior Full Stack Developer",
+    "descripcion": "Desarrollador autodidacta apasionado por Python y el desarrollo web moderno.",
+    "iniciales": "AL",
+    "tecnologias_principales": [
+        "Python",
+        "Reflex",
+        "Javascript",
+        "Node.js",
+        "Next.js",
+        "React",
+        "Git",
+        "SQL",
+        "NoSQL",
+        "AWS"
+    ],
+    "redes_sociales": {
+        "github": "https://github.com/tuusuario",
+        "linkedin": "https://linkedin.com/in/angel-lizarzado",
+        "email": "angel@ejemplo.com",
+        "twitter": null
+    },
+    "copyright": "© 2025 Ángel Lizarzado"
+}

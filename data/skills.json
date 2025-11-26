@@ -1,0 +1,45 @@
+{
+    "categorias": [
+        {
+            "nombre": "Frontend",
+            "tecnologias": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React",
+                "Reflex",
+                "TailwindCSS"
+            ]
+        },
+        {
+            "nombre": "Backend",
+            "tecnologias": [
+                "Python",
+                "Flask",
+                "FastAPI",
+                "SQL",
+                "REST APIs"
+            ]
+        },
+        {
+            "nombre": "Herramientas",
+            "tecnologias": [
+                "Git",
+                "GitHub",
+                "VS Code",
+                "Postman",
+                "Linux",
+                "Windows Server"
+            ]
+        },
+        {
+            "nombre": "Aprendiendo",
+            "tecnologias": [
+                "Docker",
+                "TypeScript",
+                "Next.js",
+                "Testing"
+            ]
+        }
+    ]
+}

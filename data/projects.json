@@ -1,0 +1,47 @@
+{
+    "proyectos": [
+        {
+            "titulo": "Mi Portfolio Personal",
+            "tecnologias": [
+                "Python",
+                "Reflex",
+                "CSS"
+            ],
+            "github_url": "https://github.com/tuusuario/portfolio",
+            "demo_url": null,
+            "imagen_url": "/portfolio.png",
+            "bg_color": "linear-gradient(135deg, #667eea 0%, #764ba2 100%)",
+            "descripcion_es": "Portfolio interactivo desarrollado desde cero con Reflex (Python). Implementa diseño responsive, modo oscuro/claro, internacionalización (i18n) y animaciones suaves.",
+            "descripcion_en": "Interactive portfolio developed from scratch with Reflex (Python). Implements responsive design, dark/light mode, internationalization (i18n) and smooth animations."
+        },
+        {
+            "titulo": "Transporte escolar",
+            "tecnologias": [
+                "Node.js",
+                "Express",
+                "React",
+                "Supabase",
+                "Progressive Web App (PWA)"
+            ],
+            "github_url": "https://github.com/Angel-Lizarzado/Transporte",
+            "demo_url": "https://transporte-iota.vercel.app/",
+            "imagen_url": "/transporte.png",
+            "bg_color": "linear-gradient(135deg, #f093fb 0%, #f5576c 100%)",
+            "descripcion_es": "Sistema completo de gestión para transporte escolar privado con soporte multi-organización, diseñado para facilitar la administración de representantes, estudiantes, docentes y transacciones financieras.",
+            "descripcion_en": "Complete management system for private school transportation with multi-organization support, designed to facilitate the administration of representatives, students, teachers and financial transactions."
+        },
+        {
+            "titulo": "Trending Movie App",
+            "tecnologias": [
+                "Kotlin",
+                "Jetpack Compose"
+            ],
+            "github_url": "https://github.com/Angel-Lizarzado/TrendingMoviesApp",
+            "demo_url": null,
+            "imagen_url": "/trendingMovie.png",
+            "bg_color": "linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)",
+            "descripcion_es": "Aplicación de películas que consume una API externa (TMDB) para mostrar el pronóstico del tiempo en tiempo real de cualquier ciudad.",
+            "descripcion_en": "Movie application that consumes an external API (TMDB) to display the real-time weather forecast of any city."
+        }
+    ]
+}
