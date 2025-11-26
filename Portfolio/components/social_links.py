@@ -40,7 +40,6 @@ def social_links(
     linkedin: str = None,
     email: str = None,
     twitter: str = None,
-    repo_url: str = None,
     layout: str = "horizontal",
 ) -> rx.Component:
     """
@@ -71,9 +70,6 @@ def social_links(
     if twitter:
         links.append(social_link_button("Twitter", twitter))
         
-    if repo_url:
-        links.append(social_link_button("Source Code", repo_url))
-    
     if not links:
         return rx.box()  # Retornar box vacío si no hay links
     
