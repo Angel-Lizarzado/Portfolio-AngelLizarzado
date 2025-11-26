@@ -62,6 +62,7 @@ def contact_section() -> rx.Component:
                     ),
                     spacing="4",
                     padding_y="6",
+                    width="100%",
                 ),
                 
                 # Divider

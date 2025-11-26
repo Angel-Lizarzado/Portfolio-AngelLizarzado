@@ -61,9 +61,9 @@ def index() -> rx.Component:
             
             // Cargar tema guardado
             const savedTheme = localStorage.getItem('theme');
-            if (savedTheme === 'dark') {
+            if (savedTheme === 'dark' || !savedTheme) {
                 document.documentElement.classList.add('dark');
-            } else if (savedTheme === 'light') {
+            } else {
                 document.documentElement.classList.remove('dark');
             }
             

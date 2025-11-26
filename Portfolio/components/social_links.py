@@ -89,4 +89,5 @@ def social_links(
             spacing="4",
             wrap="wrap",
             justify="center",
+            width="100%",
         )
